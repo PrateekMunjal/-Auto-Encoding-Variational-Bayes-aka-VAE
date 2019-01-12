@@ -10,13 +10,13 @@ MNIST            |  Celeb-A
 :-------------------------:|:-------------------------: 
 ![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/generations.gif)  |  ![](https://github.com/PrateekMunjal/VAE/blob/master/celebA/generations.gif)
 
-![Generations](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/generations.gif)
-
-
-
-## MNIST Reconstructions
+## Reconstructions
 
 Original            |  Reconstruction
 :-------------------------:|:-------------------------: 
 ![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-real/original_new_vae-95.png)  |  ![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-recons/reconstructed_new_vae-95.png)
+
+Original            |  Reconstruction
+:-------------------------:|:-------------------------: 
+![](https://github.com/PrateekMunjal/VAE/blob/master/celebA/op-real/orig-img-8.png)  |  ![](https://github.com/PrateekMunjal/VAE/blob/master/celebA/op-recons/recons-img-8.png)
 
