@@ -12,11 +12,11 @@ MNIST            |  Celeb-A
 
 ## Reconstructions
 
-Original            |  Reconstruction
+MNIST Original            |  MNIST Reconstruction
 :-------------------------:|:-------------------------: 
 ![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-real/original_new_vae-95.png)  |  ![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-recons/reconstructed_new_vae-95.png)
 
-Original            |  Reconstruction
+Celeb-A Original            |  Celeb-A Reconstruction
 :-------------------------:|:-------------------------: 
 ![](https://github.com/PrateekMunjal/VAE/blob/master/celebA/op-real/orig-img-8.png)  |  ![](https://github.com/PrateekMunjal/VAE/blob/master/celebA/op-recons/recons-img-8.png)
 
