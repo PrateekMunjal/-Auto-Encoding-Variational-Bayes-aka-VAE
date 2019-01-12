@@ -8,7 +8,11 @@ I tried VAE with the two benchmark real world datasets: MNIST and Celeb-A.
 
 ![Generations](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/generations.gif)
 
+
+
 ## MNIST Reconstructions
-Original(Left) and Reconstruction(Right)
-![Original](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-real/original_new_vae-0.png)
-![Reconstructed](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-recons/reconstructed_new_vae-0.png)
+
+Original            |  Reconstruction
+:-------------------------:|:-------------------------:
+![]((https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-real/original_new_vae-0.png)  |  ![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-recons/reconstructed_new_vae-0.png)
+
