@@ -13,12 +13,6 @@ I tried VAE with the two benchmark real world datasets: MNIST and Celeb-A.
 ## MNIST Reconstructions
 
 Original            |  Reconstruction
-:-------------------------:|:-------------------------:
-![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-real/original_new_vae-0.png)  |  ![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-recons/reconstructed_new_vae-0.png)
-:-------------------------:|:-------------------------:
-![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-real/original_new_vae-20.png)  |  ![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-recons/reconstructed_new_vae-20.png)
-:-------------------------:|:-------------------------:
-![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-real/original_new_vae-60.png)  |  ![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-recons/reconstructed_new_vae-60.png)
-:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------: 
 ![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-real/original_new_vae-95.png)  |  ![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/op-recons/reconstructed_new_vae-95.png)
-:-------------------------:|:-------------------------:
+
