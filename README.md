@@ -4,7 +4,11 @@ Implementation of VAE model, following the paper: https://arxiv.org/abs/1312.611
 
 I tried VAE with the two benchmark real world datasets: MNIST and Celeb-A.
 
-## MNIST generations
+## Generations
+
+MNIST            |  Celeb-A
+:-------------------------:|:-------------------------: 
+![](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/generations.gif)  |  ![](https://github.com/PrateekMunjal/VAE/blob/master/celebA/generations.gif)
 
 ![Generations](https://github.com/PrateekMunjal/VAE/blob/master/MNIST/generations.gif)
 
