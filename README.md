@@ -30,7 +30,7 @@ python vae_inference.py
 
 ## Empirical Observations
 
-* We observe same inferences for KL weight as discussed (here)[https://github.com/PrateekMunjal/VAE_GAN/blob/master/README.md].
+* We observe same inferences for KL weight as discussed (https://github.com/PrateekMunjal/VAE_GAN/blob/master/README.md)[here].
 
 * Although VAE has a more stable behaviour than VAE/GAN. However, the quality of VAE generations are less plausible than VAE/GAN generations.
 
@@ -40,7 +40,7 @@ python vae_inference.py
   * The l2 loss function used for reconstruction loss.
   * There is no explicit term penalizing the decoder for generating non-plausible images. -- Alleviating this by an adversary gives birth to VAE/GAN model. Check my implementation for VAE/GAN (here)[https://github.com/PrateekMunjal/VAE_GAN]
 ```  
-***Why minimizing the l2 loss function produces blurred images?***
+Why minimizing the l2 loss function produces blurred images?
 ```
 After a bit of math, minimizing the l2 loss boils down to minimize the forward-KL divergence. The issue with forward-KL divergence is that it does not penalizes the model when our model puts weight on the region of data which is disjoint from the support of true distribution. 
 
