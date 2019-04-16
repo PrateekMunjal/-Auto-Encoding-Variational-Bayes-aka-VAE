@@ -30,7 +30,7 @@ python vae_inference.py
 
 ## Empirical Observations
 
-* We observe same inferences for KL weight as discussed [https://github.com/PrateekMunjal/VAE_GAN/blob/master/README.md](here).
+* We observe same inferences for KL weight as discussed [here](https://github.com/PrateekMunjal/VAE_GAN/blob/master/README.md).
 
 * Although VAE has a more stable behaviour than VAE/GAN. However, the quality of VAE generations are less plausible than VAE/GAN generations.
 
@@ -38,7 +38,7 @@ python vae_inference.py
 
 * Blurry issue of VAE is explained by following:
   * The l2 loss function used for reconstruction loss.
-  * There is no explicit term penalizing the decoder for generating non-plausible images. -- Alleviating this by an adversary gives birth to VAE/GAN model. Check my implementation for [https://github.com/PrateekMunjal/VAE_GAN](VAE/GAN).
+  * There is no explicit term penalizing the decoder for generating non-plausible images. -- Alleviating this by an adversary gives birth to VAE/GAN model. Check my implementation for [here](https://github.com/PrateekMunjal/VAE_GAN).
 ```  
 Why minimizing the l2 loss function produces blurred images?
 ```
