@@ -16,7 +16,7 @@ Similarly, as the name suggests, file vae_inference.py contains the code to test
 
 ## Usage
 ### Training a model
-NOTE: For celebA, make sure you have the downloaded dataset from [http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html](here) and keep it in the current directory of project.
+NOTE: For celebA, make sure you have the downloaded dataset from [here](http://mmlab.ie.cuhk.edu.hk/projects/Celeb) and keep it in the current directory of project.
 ```
 python vae.py
 ```
